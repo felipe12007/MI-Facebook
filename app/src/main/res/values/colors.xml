@@ -9,4 +9,8 @@
     <color name="white">#FFFFFFFF</color>
     <color name="azul"> #3b5998</color>
     <color name="gris">#898F9C</color>
+    <color name="blanco_azul">#E9EBEE</color>
+    <color name="azul_claro">#1877f2</color>
+    <color name="verde">#01B411</color>
+    <color name="gris_claro">#DBDBDB</color>
 </resources>

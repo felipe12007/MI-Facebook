@@ -3,7 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/Felipe Torres/AndroidStudioProjects/MiFacebook/app/src/main/res/layout/activity_main.xml" value="0.3138586956521739" />
+        <entry key="..\:/Users/Felipe Torres/AndroidStudioProjects/MiFacebook/app/src/main/res/drawable/img_persona.xml" value="0.5295" />
+        <entry key="..\:/Users/Felipe Torres/AndroidStudioProjects/MiFacebook/app/src/main/res/layout/Inicio_Face.xml" value="0.33" />
+        <entry key="..\:/Users/Felipe Torres/AndroidStudioProjects/MiFacebook/app/src/main/res/layout/activity_main.xml" value="0.67" />
+        <entry key="..\:/Users/Felipe Torres/AndroidStudioProjects/MiFacebook/app/src/main/res/layout/inicio_face.xml" value="0.33" />
+        <entry key="..\:/Users/Felipe Torres/AndroidStudioProjects/MiFacebook/app/src/main/res/layout/registro_face.xml" value="0.31354166666666666" />
       </map>
     </option>
   </component>
